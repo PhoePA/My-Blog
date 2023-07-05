@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Error = () => {
   return (
     <section className="errorPage">
-      <div className="errorP">
+      <div className="errorPg">
         <div className="error-text">
           <ExclamationTriangleIcon className="Icon trash" />
           <h1>Something Went Wrong!</h1>

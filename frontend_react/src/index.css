@@ -177,8 +177,8 @@ textarea {
   transition: 0.2s;
 }
 .btn:hover {
-  background-color: #3e8e41;
-  color: white;
+  background-color: #000;
+  color: yellow;
 }
 
 .edit-delete {
@@ -200,7 +200,7 @@ textarea {
   margin: 5px auto;
 }
 
-.error {
+.errorPg {
   text-align: center;
   margin: 0 auto;
 }
