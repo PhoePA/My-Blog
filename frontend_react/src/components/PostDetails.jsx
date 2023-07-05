@@ -44,8 +44,8 @@ const PostDetails = ({ post }) => {
       {isToken && (
         <div className="detail-header">
           <div className="edit-delete">
-            <PencilSquareIcon className="Icon" />
             <Link to={`edit-post`}>
+              <PencilSquareIcon className="Icon" />
               <p>Edit</p>
             </Link>
           </div>
